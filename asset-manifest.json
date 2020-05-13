@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/space-gallery-app/static/css/main.0b220361.chunk.css",
+    "main.js": "/space-gallery-app/static/js/main.48aa0897.chunk.js",
+    "main.js.map": "/space-gallery-app/static/js/main.48aa0897.chunk.js.map",
+    "runtime-main.js": "/space-gallery-app/static/js/runtime-main.6f8fbeac.js",
+    "runtime-main.js.map": "/space-gallery-app/static/js/runtime-main.6f8fbeac.js.map",
+    "static/js/2.5870fe08.chunk.js": "/space-gallery-app/static/js/2.5870fe08.chunk.js",
+    "static/js/2.5870fe08.chunk.js.map": "/space-gallery-app/static/js/2.5870fe08.chunk.js.map",
+    "index.html": "/space-gallery-app/index.html",
+    "precache-manifest.553d07ccc1b1a760c26ad8bcf0ad3cc2.js": "/space-gallery-app/precache-manifest.553d07ccc1b1a760c26ad8bcf0ad3cc2.js",
+    "service-worker.js": "/space-gallery-app/service-worker.js",
+    "static/css/main.0b220361.chunk.css.map": "/space-gallery-app/static/css/main.0b220361.chunk.css.map",
+    "static/js/2.5870fe08.chunk.js.LICENSE.txt": "/space-gallery-app/static/js/2.5870fe08.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/space-gallery-app/static/media/darkrift-space.b45f202b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f8fbeac.js",
+    "static/js/2.5870fe08.chunk.js",
+    "static/css/main.0b220361.chunk.css",
+    "static/js/main.48aa0897.chunk.js"
+  ]
+}
