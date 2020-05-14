@@ -1,6 +1,6 @@
 {
-  "name": "space-gallery-app",
-  "homepage": "https://AVS1508.github.io/space-gallery-app",
+  "name": "nasa-apod-gallery-app",
+  "homepage": "https://AVS1508.github.io/nasa-apod-gallery-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
