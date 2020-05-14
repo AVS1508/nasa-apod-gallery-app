@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/space-gallery-app/static/css/main.c51c83c1.chunk.css",
-    "main.js": "/space-gallery-app/static/js/main.48aa0897.chunk.js",
-    "main.js.map": "/space-gallery-app/static/js/main.48aa0897.chunk.js.map",
-    "runtime-main.js": "/space-gallery-app/static/js/runtime-main.6f8fbeac.js",
-    "runtime-main.js.map": "/space-gallery-app/static/js/runtime-main.6f8fbeac.js.map",
-    "static/js/2.5870fe08.chunk.js": "/space-gallery-app/static/js/2.5870fe08.chunk.js",
-    "static/js/2.5870fe08.chunk.js.map": "/space-gallery-app/static/js/2.5870fe08.chunk.js.map",
-    "index.html": "/space-gallery-app/index.html",
-    "precache-manifest.717b74b28d6df58ed71ebf9709f9c452.js": "/space-gallery-app/precache-manifest.717b74b28d6df58ed71ebf9709f9c452.js",
-    "service-worker.js": "/space-gallery-app/service-worker.js",
-    "static/css/main.c51c83c1.chunk.css.map": "/space-gallery-app/static/css/main.c51c83c1.chunk.css.map",
-    "static/js/2.5870fe08.chunk.js.LICENSE.txt": "/space-gallery-app/static/js/2.5870fe08.chunk.js.LICENSE.txt",
-    "static/media/App.module.css": "/space-gallery-app/static/media/darkrift-space.b45f202b.jpg"
+    "main.css": "/nasa-apod-gallery-app/static/css/main.cad48e0b.chunk.css",
+    "main.js": "/nasa-apod-gallery-app/static/js/main.3d7364ea.chunk.js",
+    "main.js.map": "/nasa-apod-gallery-app/static/js/main.3d7364ea.chunk.js.map",
+    "runtime-main.js": "/nasa-apod-gallery-app/static/js/runtime-main.ca3d9ac1.js",
+    "runtime-main.js.map": "/nasa-apod-gallery-app/static/js/runtime-main.ca3d9ac1.js.map",
+    "static/js/2.86bb2a42.chunk.js": "/nasa-apod-gallery-app/static/js/2.86bb2a42.chunk.js",
+    "static/js/2.86bb2a42.chunk.js.map": "/nasa-apod-gallery-app/static/js/2.86bb2a42.chunk.js.map",
+    "index.html": "/nasa-apod-gallery-app/index.html",
+    "precache-manifest.d7cf931967a9033625867d124d769288.js": "/nasa-apod-gallery-app/precache-manifest.d7cf931967a9033625867d124d769288.js",
+    "service-worker.js": "/nasa-apod-gallery-app/service-worker.js",
+    "static/css/main.cad48e0b.chunk.css.map": "/nasa-apod-gallery-app/static/css/main.cad48e0b.chunk.css.map",
+    "static/js/2.86bb2a42.chunk.js.LICENSE.txt": "/nasa-apod-gallery-app/static/js/2.86bb2a42.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/nasa-apod-gallery-app/static/media/darkrift-space.b45f202b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f8fbeac.js",
-    "static/js/2.5870fe08.chunk.js",
-    "static/css/main.c51c83c1.chunk.css",
-    "static/js/main.48aa0897.chunk.js"
+    "static/js/runtime-main.ca3d9ac1.js",
+    "static/js/2.86bb2a42.chunk.js",
+    "static/css/main.cad48e0b.chunk.css",
+    "static/js/main.3d7364ea.chunk.js"
   ]
 }
