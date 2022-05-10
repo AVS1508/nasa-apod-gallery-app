@@ -1,23 +1,14 @@
 {
   "files": {
-    "main.css": "/nasa-apod-gallery-app/static/css/main.cad48e0b.chunk.css",
-    "main.js": "/nasa-apod-gallery-app/static/js/main.3d7364ea.chunk.js",
-    "main.js.map": "/nasa-apod-gallery-app/static/js/main.3d7364ea.chunk.js.map",
-    "runtime-main.js": "/nasa-apod-gallery-app/static/js/runtime-main.ca3d9ac1.js",
-    "runtime-main.js.map": "/nasa-apod-gallery-app/static/js/runtime-main.ca3d9ac1.js.map",
-    "static/js/2.86bb2a42.chunk.js": "/nasa-apod-gallery-app/static/js/2.86bb2a42.chunk.js",
-    "static/js/2.86bb2a42.chunk.js.map": "/nasa-apod-gallery-app/static/js/2.86bb2a42.chunk.js.map",
+    "main.css": "/nasa-apod-gallery-app/static/css/main.8f71898c.css",
+    "main.js": "/nasa-apod-gallery-app/static/js/main.5a165c9f.js",
+    "static/media/darkrift-space.jpg": "/nasa-apod-gallery-app/static/media/darkrift-space.236323548cd3cf6352df.jpg",
     "index.html": "/nasa-apod-gallery-app/index.html",
-    "precache-manifest.d7cf931967a9033625867d124d769288.js": "/nasa-apod-gallery-app/precache-manifest.d7cf931967a9033625867d124d769288.js",
-    "service-worker.js": "/nasa-apod-gallery-app/service-worker.js",
-    "static/css/main.cad48e0b.chunk.css.map": "/nasa-apod-gallery-app/static/css/main.cad48e0b.chunk.css.map",
-    "static/js/2.86bb2a42.chunk.js.LICENSE.txt": "/nasa-apod-gallery-app/static/js/2.86bb2a42.chunk.js.LICENSE.txt",
-    "static/media/App.module.css": "/nasa-apod-gallery-app/static/media/darkrift-space.b45f202b.jpg"
+    "main.8f71898c.css.map": "/nasa-apod-gallery-app/static/css/main.8f71898c.css.map",
+    "main.5a165c9f.js.map": "/nasa-apod-gallery-app/static/js/main.5a165c9f.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca3d9ac1.js",
-    "static/js/2.86bb2a42.chunk.js",
-    "static/css/main.cad48e0b.chunk.css",
-    "static/js/main.3d7364ea.chunk.js"
+    "static/css/main.8f71898c.css",
+    "static/js/main.5a165c9f.js"
   ]
 }
