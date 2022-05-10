@@ -1,5 +1,5 @@
 body {
-  background-image: url("./images/darkrift-space.jpg");
+  background-image: url("./assets/jpg/darkrift-space.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #0000aa;
@@ -22,7 +22,7 @@ body {
 .header {
   color: white;
   font-family: Roboto;
-  text-shadow: 3px 3px #0000aa;
+  /* text-shadow: 3px 3px #0000aa; */
   font-size: x-large;
 }
 
@@ -44,7 +44,7 @@ body {
   text-align: justify;
   text-shadow: 2px 2px black;
   color: white;
-  font-family: "Fira Sans";
+  font-family: "Roboto";
   font-weight: bolder;
 }
 
